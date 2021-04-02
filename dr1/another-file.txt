@@ -1,3 +1,5 @@
+Line replaced in BR-2
+
 Just another file
 
 another line added
